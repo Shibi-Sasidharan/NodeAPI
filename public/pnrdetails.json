@@ -1,0 +1,167 @@
+{
+    "PNRPassRider": {
+          "css": "true",
+          "ep": "46%2bE%2blG7xfY%3d",
+          "prn": "STEPHEN COPLEY",
+          "s": {
+              "Seat": [{
+                      "a": {
+                          "@nil": "true"
+                      },
+                      "d": "ORD",
+                      "fd": "10/9/2017",
+                      "fn": "844",
+                      "i": "1",
+                      "k": "0",
+                      "o": "GRU",
+                      "sa": "--"
+                  },
+                  {
+                      "a": {
+                          "@nil": "true"
+                      },
+                      "d": "GRU",
+                      "fd": "10/17/2017",
+                      "fn": "845",
+                      "i": "1",
+                      "k": "0",
+                      "o": "ORD",
+                      "sa": "--"
+                  }
+              ]
+          }
+      },
+       "PNRTrip": [{
+                   "PNRSegment": {
+                       "aa": {
+                           "ac": "ORD",
+                           "an": "Chicago, IL (ORD)",
+                           "cc": "US",
+                           "cn": "Chicago"
+                       },
+                       "ac": {
+                           "c": null,
+                           "ln": "Boeing 777-200",
+                           "sn": "777"
+                       },
+                       "ach": "true",
+                       "adt": {
+                           "fd": "10/10/2017",
+                           "fdd": "Tue., Oct. 10, 2017",
+                           "ft": "6:45 AM",
+                           "od": "20171010"
+                       },
+                       "c": {
+                           "k": "T",
+                           "v": "Economy"
+                       },
+                       "cc": "UA",
+                       "ct": {
+                           "@nil": "true"
+                       },
+                       "da": {
+                           "ac": "GRU",
+                           "an": "Sao Paulo, BR (GRU)",
+                           "cc": "BR",
+                           "cn": "Sao Paulo"
+                       },
+                       "ddt": {
+                           "fd": "10/9/2017",
+                           "fdd": "Mon., Oct. 09, 2017",
+                           "ft": "10:20 PM",
+                           "od": "20171009"
+                       },
+                       "fS": {
+                           "@nil": "true"
+                       },
+                       "fn": "844",
+                       "ft": {
+                           "h": "11",
+                           "m": "25",
+                           "tm": "685"
+                       },
+                       "iLft": "false",
+                       "iUsed": "false",
+                       "iactive": "true",
+                       "oc": "UA",
+                       "pc": "PS5B91",
+                       "sa": "true",
+                       "sc": "true",
+                       "sd": "true",
+                       "sfs": "true",
+                       "si": "1",
+                       "spb": "true",
+                       "spr": "true",
+                       "tt": {
+                           "@nil": "true"
+                       }
+                   }
+           },
+           {
+                   "PNRSegment": {
+                       "aa": {
+                           "ac": "GRU",
+                           "an": "Sao Paulo, BR (GRU)",
+                           "cc": "BR",
+                           "cn": "Sao Paulo"
+                       },
+                       "ac": {
+                           "c": null,
+                           "ln": "Boeing 777-200",
+                           "sn": "777"
+                       },
+                       "ach": "true",
+                       "adt": {
+                           "fd": "10/18/2017",
+                           "fdd": "Wed., Oct. 18, 2017",
+                           "ft": "10:30 AM",
+                           "od": "20171018"
+                       },
+                       "c": {
+                           "k": "T",
+                           "v": "Economy"
+                       },
+                       "cc": "UA",
+                       "ct": {
+                           "@nil": "true"
+                       },
+                       "da": {
+                           "ac": "ORD",
+                           "an": "Chicago, IL (ORD)",
+                           "cc": "US",
+                           "cn": "Chicago"
+                       },
+                       "ddt": {
+                           "fd": "10/17/2017",
+                           "fdd": "Tue., Oct. 17, 2017",
+                           "ft": "9:05 PM",
+                           "od": "20171017"
+                       },
+                       "fS": {
+                           "@nil": "true"
+                       },
+                       "fn": "845",
+                       "ft": {
+                           "h": "10",
+                           "m": "25",
+                           "tm": "625"
+                       },
+                       "iLft": "false",
+                       "iUsed": "false",
+                       "iactive": "true",
+                       "oc": "UA",
+                       "pc": "PS5B91",
+                       "sa": "false",
+                       "sc": "false",
+                       "sd": "true",
+                       "sfs": "false",
+                       "si": "2",
+                       "spb": "true",
+                       "spr": "true",
+                       "tt": {
+                           "@nil": "true"
+                       }
+               }
+           }
+       ]
+   }
